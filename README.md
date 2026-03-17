@@ -167,7 +167,7 @@ Submit a contact message.
 
 ## GitHub Repository
 
-https://github.com/imsuleman-10/portfolio-website
+https://github.com/imsuleman-10/Fully-Functional-Simple-Portfolio
 
 ## License
 
