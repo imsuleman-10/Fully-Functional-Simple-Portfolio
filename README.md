@@ -5,7 +5,7 @@ A modern, responsive personal portfolio website built with the MERN stack (Mongo
 ## Project Overview
 
 **Developer:** M. Suleman Zaheer  
-**Email:** imsuleman.10@gmail.com  
+**Email:** sulemanzaheer09@gmail.com  
 **Location:** Shahdara Town, Lahore, Pakistan
 
 This portfolio showcases personal information, education, skills, projects, and social presence. It demonstrates practical MERN stack skills for potential clients, recruiters, and employers.
