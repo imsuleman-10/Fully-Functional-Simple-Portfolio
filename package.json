@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "M. Suleman Zaheer Personal Portfolio Website - MERN Stack",
+  "scripts": {
+    "client": "cd client && npm start",
+    "server": "cd server && npm start",
+    "install-all": "npm install && cd client && npm install && cd ../server && npm install",
+    "dev": "echo 'Run client and server in separate terminals: npm run client or npm run server'"
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "node.js",
+    "mongodb",
+    "mern"
+  ],
+  "author": "M. Suleman Zaheer",
+  "license": "MIT"
+}
